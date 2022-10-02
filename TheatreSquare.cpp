@@ -10,15 +10,6 @@ int main() {
 
     long long int squaresL = ceil(m / (double) a);
     long long int squaresH = ceil(n / (double) a);
-
-    // if (n <= a && m <= a) {
-    //     if (m > a) {
-    //         cout << squaresL << endl;
-    //     } else {
-    //         cout << squaresH << endl;
-    //     }
-    // } else {
-    //     cout << squaresL + squaresH << endl;
-    // }
+    
     cout << squaresL * squaresH << endl;
 }
