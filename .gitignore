@@ -13,3 +13,6 @@ a.out
 
 # Built Visual Studio Code Extensions
 *.vsix
+
+# Input
+1.in
