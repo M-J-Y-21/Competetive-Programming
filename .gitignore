@@ -5,6 +5,9 @@
 !.vscode/extensions.json
 !.vscode/*.code-snippets
 
+# above doesn't work?
+.vscode
+
 # compiled output
 a.out
 
