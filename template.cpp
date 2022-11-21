@@ -2,6 +2,8 @@
 
 using namespace std;
 
+typedef long long int ll;
+
 int main() {
     /**
      * @brief Super speed boost
